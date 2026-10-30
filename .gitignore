@@ -1,0 +1,21 @@
+# ─── Obsidian ───────────────────────────────────────────────────────────────
+# Plugin data, caches, and workspace state are local-only — don't track them.
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins/
+.obsidian/themes/
+.obsidian/snippets/
+
+# Keep the core Obsidian config (app.json, appearance.json, etc.) so the vault
+# opens correctly on any machine that clones this repo.
+# If you want to exclude ALL of .obsidian, replace the lines above with:
+# .obsidian/
+
+# ─── OS & editors ────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
